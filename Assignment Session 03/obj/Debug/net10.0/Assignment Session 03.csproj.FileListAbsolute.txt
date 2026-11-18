@@ -1,0 +1,16 @@
+D:\Route\CSharp\Basics\Session 03\Assignment\Route\Assignment Session 03\bin\Debug\net10.0\Assignment Session 03.exe
+D:\Route\CSharp\Basics\Session 03\Assignment\Route\Assignment Session 03\bin\Debug\net10.0\Assignment Session 03.deps.json
+D:\Route\CSharp\Basics\Session 03\Assignment\Route\Assignment Session 03\bin\Debug\net10.0\Assignment Session 03.runtimeconfig.json
+D:\Route\CSharp\Basics\Session 03\Assignment\Route\Assignment Session 03\bin\Debug\net10.0\Assignment Session 03.runtimeconfig.dev.json
+D:\Route\CSharp\Basics\Session 03\Assignment\Route\Assignment Session 03\bin\Debug\net10.0\Assignment Session 03.dll
+D:\Route\CSharp\Basics\Session 03\Assignment\Route\Assignment Session 03\bin\Debug\net10.0\Assignment Session 03.pdb
+D:\Route\CSharp\Basics\Session 03\Assignment\Route\Assignment Session 03\obj\Debug\net10.0\Assignment Session 03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\CSharp\Basics\Session 03\Assignment\Route\Assignment Session 03\obj\Debug\net10.0\Assignment Session 03.AssemblyInfoInputs.cache
+D:\Route\CSharp\Basics\Session 03\Assignment\Route\Assignment Session 03\obj\Debug\net10.0\Assignment Session 03.AssemblyInfo.cs
+D:\Route\CSharp\Basics\Session 03\Assignment\Route\Assignment Session 03\obj\Debug\net10.0\Assignment Session 03.csproj.CoreCompileInputs.cache
+D:\Route\CSharp\Basics\Session 03\Assignment\Route\Assignment Session 03\obj\Debug\net10.0\Assignment Session 03.dll
+D:\Route\CSharp\Basics\Session 03\Assignment\Route\Assignment Session 03\obj\Debug\net10.0\refint\Assignment Session 03.dll
+D:\Route\CSharp\Basics\Session 03\Assignment\Route\Assignment Session 03\obj\Debug\net10.0\Assignment Session 03.pdb
+D:\Route\CSharp\Basics\Session 03\Assignment\Route\Assignment Session 03\obj\Debug\net10.0\Assignment Session 03.genruntimeconfig.cache
+D:\Route\CSharp\Basics\Session 03\Assignment\Route\Assignment Session 03\obj\Debug\net10.0\ref\Assignment Session 03.dll
+D:\Route\CSharp\Basics\Session 03\Assignment\Route\Assignment Session 03\obj\Debug\net10.0\Assignme.3EFC94A6.Up2Date
